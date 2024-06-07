@@ -1,7 +1,5 @@
 # Flappy-bird-python
-A basic Flappy Bird game made in Python
-
-I took the assets from https://github.com/zhaolingzhi/FlapPyBird-master | Credits to him
+A basic Flappy Bird game made in Python controlled with hand gesture which is finger pinching 
 
 ## Current State:
 ![Screenshot](https://github.com/LeonMarqs/Flappy-bird-python/blob/master/Screenshot_1.png)
